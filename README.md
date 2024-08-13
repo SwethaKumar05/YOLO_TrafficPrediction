@@ -1,2 +1,3 @@
 # YOLO_TrafficPrediction
-Traffic Prediction Using YOLO Model, utilizes the YOLO (You Only Look Once) object detection model to predict and analyze traffic patterns
+
+Traffic Prediction Using YOLO Model, utilizes the YOLO (You Only Look Once) object detection model to predict and analyze traffic patterns. Instead of training the model from scratch, you are employing an already-built, pre-trained YOLO model to detect and classify vehicles and other objects in real-time traffic footage. This approach allows for efficient and accurate traffic analysis, which can be used for monitoring congestion, optimizing traffic flow, and enhancing road safety. By leveraging the powerful YOLO model, your project demonstrates the effectiveness of pre-trained models in real-world applications, providing valuable insights without the need for extensive training processes.
